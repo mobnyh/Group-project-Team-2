@@ -14,4 +14,4 @@ The main four pages are represented by the main 4 HTML files which are stored di
 
 ## HTML implementation
 
-We used classical semantic elements such as main, nav, or header as well as <div>, <p>, and <h_> tags. We assigned classes or ids to them and included CSS files to all the HTML files to style the elements. The layout was mostly done using margin and padding CSS properties. The site works as it was supposed to work without any unexpected bugs.
+We used classical semantic elements such as main, nav, or header as well as div, p, and h tags. We assigned classes or ids to them and included CSS files to all the HTML files to style the elements. The layout was mostly done using margin and padding CSS properties. The site works as it was supposed to work without any unexpected bugs.
